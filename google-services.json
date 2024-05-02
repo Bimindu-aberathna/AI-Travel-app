@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763337041946",
+    "project_id": "travel-app-cfb7e",
+    "storage_bucket": "travel-app-cfb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763337041946:android:33582e2fd71e202e16c9a3",
+        "android_client_info": {
+          "package_name": "com.KLN.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5YOEd8wcXbXD148MEjdHN0agWONZZtRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
