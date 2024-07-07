@@ -1,6 +1,6 @@
 export default async function detectLandmarks(url) {
   try {
-    const apiKey = 'AIzaSyAxV9mcy6QyakU_DYa59Ps4I-5bbHe3QBg'; // Replace 'YOUR_API_KEY' with your actual Google Cloud API key
+    const apiKey = 'Google cloud API key'; // Replace 'YOUR_API_KEY' with your actual Google Cloud API key
     const apiUrl = `https://vision.googleapis.com/v1/images:annotate?key=${apiKey}`;
 
     const requestBody = {
