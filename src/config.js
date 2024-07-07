@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBZ20ixxcQoKG_ciAxddM0qkEyxpZbXCpE",
+  apiKey: "Firebase Api Key",
   authDomain: "travel-app-29b3c.firebaseapp.com",
   projectId: "travel-app-29b3c",
   storageBucket: "travel-app-29b3c.appspot.com",
