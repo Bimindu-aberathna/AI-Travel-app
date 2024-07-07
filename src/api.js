@@ -5,7 +5,7 @@ const {
   } = require("@google/generative-ai");
   
   const MODEL_NAME = "gemini-1.0-pro";
-  const API_KEY = "AIzaSyCxjkdwnUYAXaHtWR6y4pCM-lU2h44ZAeM";
+  const API_KEY = "API KEY";
   
   export async function planTrip(days, selectedMonth, people, budget) {
     const genAI = new GoogleGenerativeAI(API_KEY);
